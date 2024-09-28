@@ -1,4 +1,4 @@
-### hey, I'm Rachel -->
+### hey, I'm Rachel, you should probably read this -->
 
 <!--
 
