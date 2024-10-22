@@ -1,4 +1,4 @@
-### hey, I'm Rachel, but you can call me Rae. you should probably read this -->
+### hey, I'm Rachel, but you can call me Ray. you should probably read this -->
 
 <!--
 
