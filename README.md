@@ -1,4 +1,6 @@
-### hey, I'm Rachel, but you can call me Ray. you should probably read this -->
+### You can:
+1) Call me Ray or Rachel, either one works :)
+2) Read this ----->
 
 <!--
 
