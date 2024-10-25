@@ -1,6 +1,6 @@
 ### You can:
 1) Call me Ray or Rachel, either one works :)
-2) Also read this ------------------------------>
+2) Read this ------------------------------>
 
 <!--
 
