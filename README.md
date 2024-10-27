@@ -1,5 +1,5 @@
 ### ⛈️⛈️ hey, there's a storm coming! you can rest here and read my README while you wait :) ------------------------------>
-<!--
+
 
 hey stranger! you can call me Ray or Rachel, whichever one you like. 
 
@@ -24,5 +24,3 @@ hey stranger! you can call me Ray or Rachel, whichever one you like.
   - she/they
 - ⚡ Fun fact:
   - I have perfect pitch :)
-  
--->
