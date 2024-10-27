@@ -1,13 +1,10 @@
-### You can:
-1) Call me Ray or Rachel, either one works :)
-2) Click on the rachelyan13 repository and read my README....  ------------------------------>
-
+### ⛈️⛈️ hey, there's a storm coming! you can rest here and read my README while you wait :) ------------------------------>
 <!--
 
-Here are some ideas to get you started:
+hey stranger! you can call me Ray or Rachel, whichever one you like. 
 
 - 🔭 I’m currently working on:
-  - a browser extension to give users who shop on Shein (an unsustainable fast fashion website) alternatives on thredUp, an online 2nd-hand thrift store.
+  - a browser extension to give users who shop on Shein (an unsustainable fast fashion website) alternatives on thredUp, an online 2nd-hand thrift store. It's currently under review for the Chrome Webstore.
   - a small video game, fully coded by me and with a fully original soundtrack (OST).
   - a website with 3 teammates for Oasis, a software development club @ Northeastern, which will allow college users to see what student deals are available to them in Boston, MA based on their university/college.
   - getting my AWS cloud practitioner certification!
@@ -24,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - my email is yan-rachel@outlook.com, or you can add me on LinkedIn at the URL linkedin.com/in/yanrachel.
 - 😄 Pronouns:
-  - she/her
+  - she/they
 - ⚡ Fun fact:
   - I have perfect pitch :)
   
