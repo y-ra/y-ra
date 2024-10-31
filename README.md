@@ -1,7 +1,7 @@
 ### ⛈️⛈️ hey, there's a storm coming! you can rest here and read my README while you wait :) --------->
 
 
-hey stranger! you can call me Ray or Rachel, whichever one you like. 
+hey stranger!
 
 - 🔭 I’m currently working on:
   - a browser extension to give users who shop on Shein (an unsustainable fast fashion website) alternatives on thredUp, an online 2nd-hand thrift store. It's currently under review for the Chrome Webstore.
