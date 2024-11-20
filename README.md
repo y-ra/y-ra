@@ -19,7 +19,7 @@ hey stranger!
 - 💬 Ask me about:
   - again, anything! I love to talk if given the opportunity.
 - 📫 How to reach me:
-  - my email is yan-rachel@outlook.com, or you can add me on LinkedIn at the URL linkedin.com/in/yanrachel.
+  - my email is yan.ra@northeastern.edu, or you can add me on LinkedIn at the URL linkedin.com/in/yanrachel.
 - 😄 Pronouns:
   - she/they
 - ⚡ Fun fact:
