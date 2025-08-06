@@ -21,6 +21,6 @@ hey stranger!
 - 📫 How to reach me:
   - my email is yan.ra@northeastern.edu, or you can add me on LinkedIn at the URL linkedin.com/in/yanrachel.
 - 😄 Pronouns:
-  - she/they
+  - any
 - ⚡ Fun fact:
   - I have perfect pitch :)
