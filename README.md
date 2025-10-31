@@ -3,12 +3,12 @@
 hi stranger :]
 
 - 🔭 I’m currently working on:
-  - a browser extension to give users who shop on Shein (an unsustainable fast fashion website) alternatives on thredUp, an online 2nd-hand thrift store. It's currently under review for the Chrome Webstore.
   - a small video game, fully coded by me and with a fully original soundtrack (OST).
-  - building a website for a client for Scout, Northeastern's design & software club. 
+  - building a website for a client for Scout, Northeastern's design & software club.
+  - NUCircle :)
 - 🌱 I’m currently learning:
   - how to better use Unity & Unreal Engine, as I'm slowly getting used to using them for my video game project
-  - about rules & processes for software engineering, in the course fundamentals of software engineering @ Northeastern
+  - about processes for software engineering, in the course fundamentals of software engineering @ Northeastern
 - 👯 I’m looking to collaborate on:
   - anything, really! Just reach out to me at my email yan.ra@northeastern.edu if you are looking to work together on something.
 - 🤔 I’m looking for help with:
