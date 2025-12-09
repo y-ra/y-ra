@@ -17,8 +17,6 @@ hi stranger :]
 - 💬 Ask me about:
   - again, anything! I love to talk if given the opportunity.
 - 📫 How to reach me:
-  - my email is yan.ra@northeastern.edu, or you can add me on LinkedIn at the URL linkedin.com/in/yan-r.
-- 😄 Pronouns:
-  - any
+  - my email is rea-yan@outlook.com, or you can add me on LinkedIn at the URL linkedin.com/in/yan-r.
 - ⚡ Fun fact:
   - I have perfect pitch :) feel free to "test" me if we meet
