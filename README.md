@@ -1,22 +1,22 @@
-### ⛈️⛈️ there's a storm coming! rest here and read my README while you wait --------->
+### ⛈️⛈️ there's a storm coming! rest here and read my README while you wait :P
 
 hi stranger :]
 
 - 🔭 I’m currently working on:
-  - a small video game, fully coded by me and with a fully original soundtrack (OST).
   - building a website for a client for Scout, Northeastern's design & software club.
-  - NUCircle :)
+  - NUCircle, a platform for Northeastern students to connect regarding co-op and job search.
+  - Garment Genie, a browser extension that recommends sustainable alternatives to fast fashion browsing.
+  - A mysterious WIP video game with an original soundtrack :)
+  - And more! You can check all of these projects out in my repositories.
 - 🌱 I’m currently learning:
-  - how to better use Unity & Unreal Engine, as I'm slowly getting used to using them for my video game project
-  - about processes for software engineering, in the course fundamentals of software engineering @ Northeastern
+  - how to better use Unity & Unreal Engine
+  - better composition practices
 - 👯 I’m looking to collaborate on:
-  - anything, really! Just reach out to me at my email yan.ra@northeastern.edu if you are looking to work together on something.
+  - anything, really! Just reach out to me at my email rae-yan@outlook.com if you are looking to work together on something.
 - 🤔 I’m looking for help with:
-  - full-time jobs (or internships)! i'd love to work in the game industry, & i've already completed an internship with black soup, a video game marketing agency.
+  - Internships or full-time jobs, specifically in the gaming industry or relating to creative applications of programming.
   - getting my foot in the door
-- 💬 Ask me about:
-  - again, anything! I love to talk if given the opportunity.
 - 📫 How to reach me:
-  - my email is rea-yan@outlook.com, or you can add me on LinkedIn at the URL linkedin.com/in/yan-r.
+  - my email is rae-yan@outlook.com, or you can add me on LinkedIn at the URL linkedin.com/in/yan-r.
 - ⚡ Fun fact:
   - I have perfect pitch :) feel free to "test" me if we meet
