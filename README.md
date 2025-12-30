@@ -14,7 +14,7 @@ hi stranger :]
 - 👯 I’m looking to collaborate on:
   - anything, really! Just reach out to me at my email rae-yan@outlook.com if you are looking to work together on something.
 - 🤔 I’m looking for help with:
-  - Internships or full-time jobs, specifically in the gaming industry or relating to creative applications of programming.
+  - Internships/co-ops :)
   - getting my foot in the door
 - 📫 How to reach me:
   - my email is rae-yan@outlook.com, or you can add me on LinkedIn at the URL linkedin.com/in/yan-r.
