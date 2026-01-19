@@ -3,10 +3,11 @@
 hi stranger :]
 
 - 🔭 I’m currently working on:
-  - building a website for a client for Scout, Northeastern's design & software club.
-  - NUCircle, a platform for Northeastern students to connect regarding co-op and job search.
+  - being an Interactive Game Developer & Designer with UPG LLC
+  - Palura Games new educational caverunner, having been onboarded to the startup
   - Garment Genie, a browser extension that recommends sustainable alternatives to fast fashion browsing.
   - A mysterious WIP video game with an original soundtrack :)
+  - Music & Audio for Video Games, a course taught by acclaimed video game composer Chel Wong
   - And more! You can check all of these projects out in my repositories.
 - 🌱 I’m currently learning:
   - how to better use Unity & Unreal Engine
