@@ -1,6 +1,6 @@
 ### hey guys i'm program in languages
 
-hi stranger
+hey everyone
 
 I'm Rae, a student at Northeastern majoring in Combined CS & Music with a Music Technology concentration, chosen for its intersection of art and technology in gaming. 
 
