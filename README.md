@@ -1,8 +1,6 @@
 ### hey guys i'm program in languages
 
-hey everyone
-
-I'm Rae, a student at Northeastern majoring in Combined CS & Music with a Concentration in Music Technology.
+student at Northeastern majoring in Combined CS & Music with a Concentration in Music Technology.
 
 current director of tech @ scout 
 
